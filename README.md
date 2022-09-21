@@ -10,7 +10,15 @@ DAY 1
 8.valid number
 9.The party
 10.Modify string by replacing characters 
+
 DAY 2
 1.climbing a staircase
 2.leap years
-3.
+3.maximum number of words
+4.merge two sorted list
+5.basic calculater
+6.digits
+7.generate parentheses
+8.matches
+9.seasons
+10.programe to remove words
