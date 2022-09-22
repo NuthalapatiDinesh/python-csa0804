@@ -22,3 +22,15 @@ DAY 2
 8.matches
 9.seasons
 10.programe to remove words
+
+DAY 3
+1. daily share trading
+2.The Project manager
+3.number of good pairs
+4.Add Binary
+5.minimum number of jumps
+6.troubling people in your city
+7.Permutations
+8.the anagrams
+9.string s and a pattern p
+10.word1 and word2
