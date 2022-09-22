@@ -12,5 +12,5 @@ def maxProfit(price, n):
         profit[i] = max(profit[i-1], profit[i]+(price[i]-min_price)) 
     result = profit[n-1] 
     return result  
-price = [7,1,5,3,6,4]
+price = [10,22,5,75,65,80]
 print ("Maximum profit is", maxProfit(price, len(price)))
