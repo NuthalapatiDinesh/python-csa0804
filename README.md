@@ -34,3 +34,15 @@ DAY 3
 8.the anagrams
 9.string s and a pattern p
 10.word1 and word2
+
+DAY 4
+1.FizzBuzz
+2.Total User
+3.Numbers Are Smaller Than the Current Number
+4.Valid Palindrome
+5.max number of steps
+6.function delchar(s,c)
+7.Count Sorted Vowel Strings
+8.Roman to Integer
+9.four seasons
+10.Scramble String
