@@ -46,3 +46,15 @@ DAY 4
 8.Roman to Integer
 9.four seasons
 10.Scramble String
+
+DAY 5
+1.string s consisting of words
+2.bonus on salary
+3.least number of perfect square numbers
+4.Little Robert
+5.peak element
+6.Implement a triangular array
+7.Longest Substring
+8.matrix of size N * N
+9.function shuffle
+10.Reverse Words in a String
