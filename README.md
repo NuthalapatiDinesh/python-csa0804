@@ -24,7 +24,7 @@ DAY 2
 10.programe to remove words
 
 DAY 3
-1. daily share trading
+1.daily share trading
 2.The Project manager
 3.number of good pairs
 4.Add Binary
