@@ -58,3 +58,6 @@ DAY 5
 8.matrix of size N * N
 9.function shuffle
 10.Reverse Words in a String
+
+DAY 6
+1.
